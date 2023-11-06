@@ -1,0 +1,3 @@
+[submodule "counter_App"]
+	path = counter_App
+	url = https://github.com/rohitparamesha/counter_App.git
